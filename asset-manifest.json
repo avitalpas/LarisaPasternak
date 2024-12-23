@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/LarisaPasternak/static/css/main.964fdded.css",
+    "main.js": "/LarisaPasternak/static/js/main.456acbdb.js",
+    "index.html": "/LarisaPasternak/index.html",
+    "main.964fdded.css.map": "/LarisaPasternak/static/css/main.964fdded.css.map",
+    "main.456acbdb.js.map": "/LarisaPasternak/static/js/main.456acbdb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.964fdded.css",
+    "static/js/main.456acbdb.js"
+  ]
+}
